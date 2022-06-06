@@ -1,0 +1,5 @@
+This is a very simple game. Bty clicking space, the ball will jump and whenever you reach the stick at the top, your level will increase. With the increment of your score, the speed of the sticks will also increase. 
+
+*Remember, ypur game is over whenever the ball touches the boundaries!*
+
+Best of luck playing the game!
